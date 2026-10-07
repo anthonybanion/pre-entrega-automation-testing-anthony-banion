@@ -1,0 +1,29 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# Reportes
+reports/*.html
+
+# Capturas
+screenshots/*.png
+screenshots/*.jpg
+
+# Variables de entorno
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
